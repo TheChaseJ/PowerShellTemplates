@@ -11,3 +11,6 @@
   .DESCRIPTION
 	Enter description of script here.
 #>
+
+#Set Error Action to Silently Continue
+$ErrorActionPreference = "SilentlyContinue"
